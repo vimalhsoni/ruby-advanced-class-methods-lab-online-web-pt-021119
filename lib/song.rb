@@ -79,11 +79,11 @@ jam
 # new_song
 end
 
-def self.test(new_song)
-jam = Song.new
-jam.name = "Vimal"
-jam
-end
+# def self.test(new_song)
+# jam = Song.new
+# jam.name = "Vimal"
+# jam
+# end
 
 
 def self.destroy_all
